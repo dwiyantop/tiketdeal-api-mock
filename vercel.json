@@ -2,11 +2,7 @@
   "functions": {
     "api/server.js": {
       "memory": 1024,
-      "includeFiles": [
-        "config/db.json",
-        "config/responseStatus.json",
-        "config/routeOptions.json"
-      ]
+      "includeFiles": "config/db.json, config/responseStatus.json, config/routeOptions.json"
     }
   },
   "rewrites": [
