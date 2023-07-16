@@ -1,0 +1,55 @@
+{
+  "2000000": {
+    "message": "SUCCESS",
+    "status_code": "SUCCESS",
+    "http_status_code": 200
+  },
+  "4000000": {
+    "status_code": "BAD_REQUEST",
+    "message": "incorrect request data",
+    "recoverable": true,
+    "http_status_code": 400
+  },
+  "4000001": {
+    "status_code": "BAD_REQUEST",
+    "message": "incorrect auth token",
+    "recoverable": false,
+    "http_status_code": 400
+  },
+  "4000002": {
+    "status_code": "VALIDATION_ERROR",
+    "message": "invalid request detected",
+    "recoverable": true,
+    "http_status_code": 400
+  },
+  "4000003": {
+    "status_code": "UNAUTHORIZED",
+    "message": "not authorized to do this action",
+    "recoverable": false,
+    "http_status_code": 401
+  },
+  "4000004": {
+    "status_code": "NOT_FOUND",
+    "message": "data not found",
+    "recoverable": false,
+    "http_status_code": 404
+  },
+  "4000005": {
+    "status_code": "UNPROCESSABLE_ENTITY",
+    "message": "cannot proceed the request",
+    "recoverable": false,
+    "http_status_code": 422
+  },
+  "5000000": {
+    "status_code": "INTERNAL_ERROR",
+    "message": "internal server error",
+    "recoverable": false,
+    "http_status_code": 500
+  },
+  "5000001": {
+    "status_code": "DATABASE_ERROR",
+    "message": "database error",
+    "recoverable": false,
+    "http_status_code": 500
+  }
+}
