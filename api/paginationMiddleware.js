@@ -24,6 +24,16 @@ function paginationMiddleware(router) {
         req.query._limit = size;
         delete req.query.size;
       }
+
+      if (req.quer.sort) {
+        req.query._sort = sort;
+        delete req.query._sort;
+      }
+
+      if (req.quer.order) {
+        req.query._order = order;
+        delete req.query._order;
+      }
     }
 
     router.render = (req, res) => {
