@@ -1,10 +1,25 @@
 {
   "users": [
     {
-      "id": "08a31ee3-8c3e-46c8-8e77-cce0287ac996",
+      "id": "2927b5b5-05f8-4873-8ad5-a39ff02b4f76",
       "email": "dwiyantosaputra@gmail.com",
-      "password": "$2b$10$eLw9paCLD.pU507pPJ4nq.letQUIVru2pR67M7v/omxUcBCpjc48y",
-      "full_name": "Dwiyantop"
+      "password": "$2b$10$ZHlAKOFONMxoXkMQ1QanWOC884BGnJOP3//O4.h5ThMGjCvd8E3eC",
+      "full_name": "Dwiyantop",
+      "role": "ADMIN"
+    },
+    {
+      "id": "5189b412-5e84-463f-ab8d-c80334f2b05a",
+      "email": "user@user.com",
+      "password": "$2b$10$HQHxHC/tzQ.5aSgcY2xNV.0zmtBBCAZEeU8CyVoUhpeedJ/V0Bnim",
+      "full_name": "User",
+      "role": "USER"
+    },
+    {
+      "id": "a2492650-29b9-46be-9c9e-98a2f5ad4238",
+      "email": "promotor@promotor.com",
+      "password": "$2b$10$/LhuKu8T0MPyLnBzV/TYKuVSFQyJLLbd4F32zI4nyfv6n3XToRGgy",
+      "full_name": "Promotor",
+      "role": "PROMOTOR"
     }
   ],
   "customers": [

@@ -17,7 +17,7 @@ async function verifyJwt(token) {
 }
 
 function registerUser(req, res) {
-  const { email, password, full_name } = req.body;
+  const { email, password, full_name, role } = req.body;
   const dbData = JSON.parse(fs.readFileSync(dbFilePath, 'utf8'));
 
   if (dbData.users.find(user => user.email === email)) {
@@ -43,6 +43,7 @@ function registerUser(req, res) {
       email: email,
       password: hashedPassword,
       full_name: full_name,
+      role: role
     };
 
     dbData.users.push(newUser);
@@ -95,7 +96,8 @@ function loginUser(req, res) {
     const JWTPayload = {
       id: userData.id,
       email: userData.email,
-      full_name: userData.full_name 
+      full_name: userData.full_name,
+      role: userData.role
     }
 
     const accessToken = jwt.sign(JWTPayload, jwtSecret, { expiresIn: '15m' });
@@ -137,16 +139,16 @@ async function refreshAccessToken(req, res) {
     });
   }
 
-  const { id, email, full_name } = decodedVerifyToken;
-  const accessToken = jwt.sign({ id, email, full_name }, jwtSecret, { expiresIn: '15m' });
-  const newRefreshToken = jwt.sign({ id, email, full_name }, jwtSecret, { expiresIn: '7d' });
+  const { id, email, full_name, role } = decodedVerifyToken;
+  const accessToken = jwt.sign({ id, email, full_name, role }, jwtSecret, { expiresIn: '15m' });
+  const newRefreshToken = jwt.sign({ id, email, full_name, role }, jwtSecret, { expiresIn: '7d' });
 
   return res.status(200).json({
     status: responseStatus[2000000],
     result: {
       access_token: accessToken,
       refresh_token: newRefreshToken,
-      profile: { id, email, full_name },
+      profile: { id, email, full_name, role },
     },
   });
 }
