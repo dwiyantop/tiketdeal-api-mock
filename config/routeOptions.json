@@ -12,6 +12,7 @@
     "/api/admin/event/:id/detail": "/events/:id"
   },
   "protectedRoutes": [
+    "/api/admin/auth/profile",
     "/api/admin/user",
     "/api/admin/customer",
     "/api/admin/event",

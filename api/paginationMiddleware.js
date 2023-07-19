@@ -26,13 +26,13 @@ function paginationMiddleware(router) {
       }
 
       if (req.query.sort) {
-        req.query._sort = sort;
-        delete req.query._sort;
+        req.query._sort = req.query.sort;
+        delete req.query.sort;
       }
 
       if (req.query.order) {
-        req.query._order = order;
-        delete req.query._order;
+        req.query._order = req.query.order;
+        delete req.query.order;
       }
     }
 
