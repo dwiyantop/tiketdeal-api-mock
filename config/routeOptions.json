@@ -13,10 +13,6 @@
   },
   "protectedRoutes": [
     "/api/admin/auth/profile",
-    "/api/admin/user",
-    "/api/admin/customer",
-    "/api/admin/event",
-    "/api/admin/refund",
-    "/api/admin/withdrawal"
+    "/api/admin/user"
   ]
 }
