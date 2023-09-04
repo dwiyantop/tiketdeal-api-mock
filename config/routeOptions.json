@@ -9,7 +9,9 @@
     "/api/admin/withdrawal/list*": "/withdrawals",
     "/api/admin/withdrawal/:id/detail": "/withdrawals/:id",
     "/api/admin/event/list*": "/events",
-    "/api/admin/event/:id/detail": "/events/:id"
+    "/api/admin/event/:id/detail": "/events/:id",
+    "/api/admin/race/list*": "/races",
+    "/api/admin/racer/list*": "/racers"
   },
   "protectedRoutes": [
     "/api/admin/auth/profile",

@@ -4029,5 +4029,434 @@
       "total_withdraw": 25000000,
       "status": "IN PROCESS"
     }
+  ],
+  "races": [
+    {
+      "id": "96d37ab1-4f2f-4087-b7a5-04d0b757fc0d",
+      "race_name": "quam molestias nisi",
+      "current_stage": "Stage 1 - Banyumas",
+      "start_date": "2024-05-18T04:43:35.004Z",
+      "end_date": "2024-05-18T04:43:35.004Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "950b31ab-0ba7-452c-9793-8714e2e8044d",
+      "race_name": "dolorem possimus eveniet",
+      "current_stage": "Stage 1 - Baa",
+      "start_date": "2023-10-19T22:39:25.491Z",
+      "end_date": "2023-10-19T22:39:25.491Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "5d5092d2-54cb-40f8-9006-33c4cf4fcb7f",
+      "race_name": "ex laborum dignissimos",
+      "current_stage": "Stage 1 - Pandeglang",
+      "start_date": "2024-05-13T19:29:00.653Z",
+      "end_date": "2024-05-13T19:29:00.653Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "f5531086-eebd-4216-8ff6-509ed854a30b",
+      "race_name": "laudantium alias distinctio",
+      "current_stage": "Stage 1 - Kupang",
+      "start_date": "2023-09-04T04:38:32.582Z",
+      "end_date": "2023-09-04T04:38:32.582Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "b3a52893-ce42-4188-9c94-764dd1c429d5",
+      "race_name": "necessitatibus cupiditate hic",
+      "current_stage": "Stage 1 - Kendal",
+      "start_date": "2023-08-12T06:22:13.421Z",
+      "end_date": "2023-08-12T06:22:13.421Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "111f5e71-d5e0-4be9-b1a8-d371d9b32c1f",
+      "race_name": "aliquam occaecati iusto",
+      "current_stage": "Stage 1 - Brebes",
+      "start_date": "2024-07-16T05:39:15.324Z",
+      "end_date": "2024-07-16T05:39:15.324Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "77501ff0-815d-4b79-9a10-d76d04421fa0",
+      "race_name": "voluptates eius suscipit",
+      "current_stage": "Stage 1 - Toli Toli",
+      "start_date": "2023-01-15T14:34:22.925Z",
+      "end_date": "2023-01-15T14:34:22.925Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "3d29bda6-9a2d-40ec-a8a6-74d14504d3e9",
+      "race_name": "labore occaecati aliquid",
+      "current_stage": "Stage 1 - Subang",
+      "start_date": "2023-01-30T12:33:31.397Z",
+      "end_date": "2023-01-30T12:33:31.397Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "d169b648-f8d9-498f-9a0c-6011a35c2096",
+      "race_name": "quibusdam in nostrum",
+      "current_stage": "Stage 1 - Indramayu",
+      "start_date": "2022-10-30T22:34:18.570Z",
+      "end_date": "2022-10-30T22:34:18.570Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "ea89035c-5641-4b42-8e47-6e5c1d180597",
+      "race_name": "magnam fuga in",
+      "current_stage": "Stage 1 - Soreang",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "c8fe3576-9e44-469c-8f38-25293b4d8ddb",
+      "race_name": "repellat eveniet aliquam",
+      "current_stage": "Stage 1 - Blora",
+      "start_date": "2023-01-27T11:16:07.971Z",
+      "end_date": "2023-01-27T11:16:07.971Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "64e8a71c-05fe-43f0-8a5b-0cadc623d32a",
+      "race_name": "ut qui reprehenderit",
+      "current_stage": "Stage 1 - Magelang",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "b9cfab07-ac4e-4caa-bd51-b6014710ab1e",
+      "race_name": "non suscipit beatae",
+      "current_stage": "Stage 1 - Unaaha",
+      "start_date": "2024-06-26T14:11:54.759Z",
+      "end_date": "2024-06-26T14:11:54.759Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "9d5a736a-ecba-4402-b4e5-e5298f51f8e0",
+      "race_name": "quod veritatis ea",
+      "current_stage": "Stage 1 - Banjar (Jawa Barat)",
+      "start_date": "2023-12-04T03:27:26.142Z",
+      "end_date": "2023-12-04T03:27:26.142Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "bf2f073e-3c08-4e8a-93de-ba604a3f66d7",
+      "race_name": "iste sed provident",
+      "current_stage": "Stage 1 - Poso",
+      "start_date": "2024-08-12T19:55:36.017Z",
+      "end_date": "2024-08-12T19:55:36.017Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "29b4d39d-3b5b-4808-ad6a-864647e5d71c",
+      "race_name": "blanditiis accusamus earum",
+      "current_stage": "Stage 1 - Indramayu",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "52b471c7-d08c-4534-910f-f85e44653a81",
+      "race_name": "aut sunt incidunt",
+      "current_stage": "Stage 1 - Unaaha",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "44991a61-23d3-4ec4-8da2-34c2a83e449b",
+      "race_name": "ad sunt voluptates",
+      "current_stage": "Stage 1 - Gresik",
+      "start_date": "2024-08-09T21:04:49.433Z",
+      "end_date": "2024-08-09T21:04:49.433Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "37cd703c-069c-44ef-8d0f-35af78bf25a8",
+      "race_name": "impedit odit repellat",
+      "current_stage": "Stage 1 - Buranga",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "b4a943c4-5187-4aac-aefd-d67d7b748737",
+      "race_name": "natus veritatis eos",
+      "current_stage": "Stage 1 - Nganjuk",
+      "start_date": "2024-02-02T17:11:03.475Z",
+      "end_date": "2024-02-02T17:11:03.475Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "c6001956-a218-49d3-9d23-af1801ecf158",
+      "race_name": "sint architecto eum",
+      "current_stage": "Stage 1 - Magelang",
+      "start_date": "2023-09-04T04:38:32.583Z",
+      "end_date": "2023-09-04T04:38:32.583Z",
+      "status": "ONGOING"
+    },
+    {
+      "id": "d5d1431c-e12d-4067-91d0-ba6cafc7fe71",
+      "race_name": "placeat dolore nobis",
+      "current_stage": "Stage 1 - Brebes",
+      "start_date": "2024-01-31T14:16:41.257Z",
+      "end_date": "2024-01-31T14:16:41.257Z",
+      "status": "UPCOMING"
+    },
+    {
+      "id": "46f3800d-8037-4dc5-8d34-44aa6dd49cfd",
+      "race_name": "debitis inventore incidunt",
+      "current_stage": "Stage 1 - Magelang",
+      "start_date": "2023-06-26T01:09:39.688Z",
+      "end_date": "2023-06-26T01:09:39.688Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "a2d2635e-4762-4a82-ad36-691a44266b12",
+      "race_name": "autem ullam iure",
+      "current_stage": "Stage 1 - Jember",
+      "start_date": "2022-09-24T04:32:37.476Z",
+      "end_date": "2022-09-24T04:32:37.476Z",
+      "status": "COMPLETED"
+    },
+    {
+      "id": "bfdb66d6-d81b-4e8f-ba1e-1a60dd2d4fec",
+      "race_name": "sunt unde quasi",
+      "current_stage": "Stage 1 - Banyuwangi",
+      "start_date": "2024-07-29T17:09:52.335Z",
+      "end_date": "2024-07-29T17:09:52.335Z",
+      "status": "UPCOMING"
+    }
+  ],
+  "racers": [
+    {
+      "id": "b108dec5-4283-47a3-9da1-34e4266dba27",
+      "racer_name": "Dandre Hermann",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Dandre_Hermann@hotmail.com",
+      "phone_number": "+6281169866900",
+      "profile_picture": "https://robohash.org/Dandre_Hermann@hotmail.com",
+      "current_race": "possimus tempora ducimus"
+    },
+    {
+      "id": "30ea56e7-a438-4f00-b3ed-88344d1dc70a",
+      "racer_name": "Elyssa Casper",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Elyssa.Casper1@hotmail.com",
+      "phone_number": "+6281529595579",
+      "profile_picture": "https://robohash.org/Elyssa.Casper1@hotmail.com",
+      "current_race": "excepturi aut iure"
+    },
+    {
+      "id": "ce66077c-63fa-4388-a73a-a92237f20a36",
+      "racer_name": "Maudie Herzog",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Maudie.Herzog@yahoo.com",
+      "phone_number": "+6281475382815",
+      "profile_picture": "https://robohash.org/Maudie.Herzog@yahoo.com",
+      "current_race": "inventore accusamus occaecati"
+    },
+    {
+      "id": "c44e6511-08b1-480a-b1ea-fc4b3ff95629",
+      "racer_name": "Clyde Strosin",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Clyde23@yahoo.com",
+      "phone_number": "+6281536929041",
+      "profile_picture": "https://robohash.org/Clyde23@yahoo.com",
+      "current_race": "neque iste inventore"
+    },
+    {
+      "id": "c78b2a8e-df38-40be-8e2c-029f90303a39",
+      "racer_name": "Brennan Kessler",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Brennan76@gmail.com",
+      "phone_number": "+6281370473964",
+      "profile_picture": "https://robohash.org/Brennan76@gmail.com",
+      "current_race": "perspiciatis non voluptatum"
+    },
+    {
+      "id": "1b29d6c9-6af3-420b-8f7b-8e61497975ca",
+      "racer_name": "Adela Feil",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Adela18@gmail.com",
+      "phone_number": "+6281191904862",
+      "profile_picture": "https://robohash.org/Adela18@gmail.com",
+      "current_race": "rerum optio numquam"
+    },
+    {
+      "id": "bd100126-6665-42a6-8693-789d5bbf688a",
+      "racer_name": "Antonetta Reichert",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Antonetta_Reichert25@hotmail.com",
+      "phone_number": "+6281941731260",
+      "profile_picture": "https://robohash.org/Antonetta_Reichert25@hotmail.com",
+      "current_race": "id facilis a"
+    },
+    {
+      "id": "d95a6dbd-6852-4043-b318-3a1911cd073c",
+      "racer_name": "Aimee Bechtelar",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Aimee92@yahoo.com",
+      "phone_number": "+6281852729026",
+      "profile_picture": "https://robohash.org/Aimee92@yahoo.com",
+      "current_race": "quaerat sequi iusto"
+    },
+    {
+      "id": "0f5e64c1-e9ff-4955-9979-bd47931e5cc3",
+      "racer_name": "Santino Hyatt",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Santino_Hyatt43@hotmail.com",
+      "phone_number": "+6281733456419",
+      "profile_picture": "https://robohash.org/Santino_Hyatt43@hotmail.com",
+      "current_race": "doloribus consectetur iure"
+    },
+    {
+      "id": "0545feaa-738f-46f1-b116-bc988be4b526",
+      "racer_name": "Genesis Schumm",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Genesis88@hotmail.com",
+      "phone_number": "+6281353756248",
+      "profile_picture": "https://robohash.org/Genesis88@hotmail.com",
+      "current_race": "veritatis cupiditate assumenda"
+    },
+    {
+      "id": "5b5f4843-22eb-48d4-a0fb-a7f4981e6438",
+      "racer_name": "Athena Schmidt-Gusikowski",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Athena.Schmidt-Gusikowski@hotmail.com",
+      "phone_number": "+6281822293469",
+      "profile_picture": "https://robohash.org/Athena.Schmidt-Gusikowski@hotmail.com",
+      "current_race": "natus dolorem dicta"
+    },
+    {
+      "id": "e04fc1af-e63a-4796-a92a-5801ec708264",
+      "racer_name": "Jarod Jacobson",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Jarod.Jacobson@gmail.com",
+      "phone_number": "+6281958808792",
+      "profile_picture": "https://robohash.org/Jarod.Jacobson@gmail.com",
+      "current_race": "optio animi modi"
+    },
+    {
+      "id": "efe4831d-2fed-4d5c-a593-b54fe48bab63",
+      "racer_name": "Katrina Jerde",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Katrina.Jerde14@hotmail.com",
+      "phone_number": "+6281143395712",
+      "profile_picture": "https://robohash.org/Katrina.Jerde14@hotmail.com",
+      "current_race": "deleniti in nihil"
+    },
+    {
+      "id": "77d4f4e0-3db6-4708-8b1d-b2d4b3826964",
+      "racer_name": "Ted Romaguera",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Ted.Romaguera62@yahoo.com",
+      "phone_number": "+6281076021769",
+      "profile_picture": "https://robohash.org/Ted.Romaguera62@yahoo.com",
+      "current_race": "placeat iusto nihil"
+    },
+    {
+      "id": "97918d0a-da70-48fb-93b0-6a5fa5481cfd",
+      "racer_name": "Janet Bruen",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Janet17@hotmail.com",
+      "phone_number": "+6281575102914",
+      "profile_picture": "https://robohash.org/Janet17@hotmail.com",
+      "current_race": "laudantium amet id"
+    },
+    {
+      "id": "11a2b648-d28c-44a6-b137-bc956ecd4338",
+      "racer_name": "Maymie Price",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Maymie.Price@gmail.com",
+      "phone_number": "+6281842732639",
+      "profile_picture": "https://robohash.org/Maymie.Price@gmail.com",
+      "current_race": "harum quibusdam doloribus"
+    },
+    {
+      "id": "2399ada9-49cb-480f-b8f1-f8a1254ad56f",
+      "racer_name": "Lawrence Macejkovic",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Lawrence_Macejkovic2@hotmail.com",
+      "phone_number": "+6281487299112",
+      "profile_picture": "https://robohash.org/Lawrence_Macejkovic2@hotmail.com",
+      "current_race": "expedita natus omnis"
+    },
+    {
+      "id": "6df4f425-0195-4ab9-9fbb-8031cc5913c9",
+      "racer_name": "Kelli White-Paucek",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Kelli14@yahoo.com",
+      "phone_number": "+6281826441927",
+      "profile_picture": "https://robohash.org/Kelli14@yahoo.com",
+      "current_race": "quae harum fugit"
+    },
+    {
+      "id": "4a8b1132-1e4e-45c2-b799-86b273b1340d",
+      "racer_name": "Omari Hackett",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Omari72@yahoo.com",
+      "phone_number": "+6281433229044",
+      "profile_picture": "https://robohash.org/Omari72@yahoo.com",
+      "current_race": "sunt temporibus hic"
+    },
+    {
+      "id": "b789de60-7be7-4378-a4ca-28f1157a45aa",
+      "racer_name": "Reanna Crist",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Reanna.Crist93@gmail.com",
+      "phone_number": "+6281544008195",
+      "profile_picture": "https://robohash.org/Reanna.Crist93@gmail.com",
+      "current_race": "molestiae eos nesciunt"
+    },
+    {
+      "id": "2024604d-8987-440d-84ee-e6fec692bedd",
+      "racer_name": "Jaylon Lehner",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Jaylon0@hotmail.com",
+      "phone_number": "+6281350043334",
+      "profile_picture": "https://robohash.org/Jaylon0@hotmail.com",
+      "current_race": "necessitatibus neque eaque"
+    },
+    {
+      "id": "a922ff9a-50e7-41e8-bc78-80d21b6731cf",
+      "racer_name": "Keaton Kuphal",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Keaton_Kuphal@hotmail.com",
+      "phone_number": "+6281805582045",
+      "profile_picture": "https://robohash.org/Keaton_Kuphal@hotmail.com",
+      "current_race": "velit culpa eaque"
+    },
+    {
+      "id": "69e985ee-c7a5-4c0b-a01e-1c53a8a9e7ce",
+      "racer_name": "Shawn Ullrich",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Shawn.Ullrich66@hotmail.com",
+      "phone_number": "+6281012167284",
+      "profile_picture": "https://robohash.org/Shawn.Ullrich66@hotmail.com",
+      "current_race": "neque incidunt totam"
+    },
+    {
+      "id": "ce97ce98-716c-402d-922f-70e4a910d3fd",
+      "racer_name": "Christopher Powlowski",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Christopher.Powlowski@gmail.com",
+      "phone_number": "+6281279044829",
+      "profile_picture": "https://robohash.org/Christopher.Powlowski@gmail.com",
+      "current_race": "eos numquam doloremque"
+    },
+    {
+      "id": "c2201dc2-029a-41de-bc49-c739fdb1ccb5",
+      "racer_name": "Israel Emard",
+      "racing_team": "Redbull Racing Team",
+      "email_address": "Israel27@hotmail.com",
+      "phone_number": "+6281160520824",
+      "profile_picture": "https://robohash.org/Israel27@hotmail.com",
+      "current_race": "deleniti ipsam necessitatibus"
+    }
   ]
 }
